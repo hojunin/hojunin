@@ -1,3 +1,4 @@
+<div align="center">
 - 👋 저는 HJ입니다.
 - 👀 React | React Native | Graphql | Strapi | Node ... 등 다양한 기술스택으로 개발합니다. 
 - 🌱 요즘 관심있는 분야는 블록체인입니다. 새롭게 Go언어를 공부중입니다. 
@@ -5,7 +6,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojunin)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
+
 
 <h2>💻개발 스택</h2>
 
