@@ -9,4 +9,4 @@ You can click the Preview link to take a look at your changes.
 --->
 개발 스택
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Notion-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Notion-20c997?style=flat-square&logo=Notion&logoColor=white"/></a>
