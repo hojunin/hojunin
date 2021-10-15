@@ -21,6 +21,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/React-20c997?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-20c997?style=flat-square&logo=Node.js&logoColor=black"/>
   <img src="https://img.shields.io/badge/Strapi-20c997?style=flat-square&logo=Strapi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-#4169E1?style=flat-square&logo=PostgreSQL&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=black"/>
   <img src="https://img.shields.io/badge/Notion-20c997?style=flat-square&logo=Notion&logoColor=black"/>
 </div>
