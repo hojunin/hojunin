@@ -8,10 +8,11 @@ hojunin/hojunin is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 개발 스택
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-20c997?style=flat-square&logo=Notion&logoColor=black"/>
+
+
 <img src="https://img.shields.io/badge/Notion-20c997?style=flat-square&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Notion-20c997?style=flat-square&logo=TypeScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Notion-20c997?style=flat-square&logo=GoLang&logoColor=black"/>
 <img src="https://img.shields.io/badge/Notion-20c997?style=flat-square&logo=Notion&logoColor=black"/>
 <img src="https://img.shields.io/badge/Notion-20c997?style=flat-square&logo=Notion&logoColor=black"/>
 <img src="https://img.shields.io/badge/Notion-20c997?style=flat-square&logo=Notion&logoColor=black"/>
