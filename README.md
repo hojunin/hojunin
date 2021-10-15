@@ -7,6 +7,9 @@
 hojunin/hojunin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojunin)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2>💻개발 스택</h2>
 
 <h3>🅰️ 언어<h3>
