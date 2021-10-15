@@ -3,12 +3,9 @@
 - 🌱 요즘 관심있는 분야는 블록체인입니다. 새롭게 Go언어를 공부중입니다. 
 - 📫 감사합니다 :)
 
-<!---
-hojunin/hojunin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojunin)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
 
 <h2>💻개발 스택</h2>
 
@@ -30,3 +27,5 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=black"/>
   </div>
+
+</div>
