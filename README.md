@@ -31,7 +31,7 @@
 </div>
   <div>
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=black"/>
-    <img src="https://img.shields.io/badge/#MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=black"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=black"/>
   </div>
   
 <h2>Co-working</h2>
