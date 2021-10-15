@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=black"/>
   </div>
   
-<h2>Co-working</h2>
+<h2>🤝 Co-working</h2>
 <div>
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=black"/>
