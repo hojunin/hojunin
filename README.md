@@ -7,14 +7,16 @@
 hojunin/hojunin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-개발 스택
+<h2>💻개발 스택</h2>
 
+<h3>🅰️언어<h3>
 <div>
   <img src="https://img.shields.io/badge/JavaScript-20c997?style=flat-square&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-20c997?style=flat-square&logo=TypeScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Go-20c997?style=flat-square&logo=Go&logoColor=black"/>
 </div>
 
+  <h3>프레임워크</h3>
 <div>
 <img src="https://img.shields.io/badge/React-20c997?style=flat-square&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-20c997?style=flat-square&logo=Node.js&logoColor=black"/>
