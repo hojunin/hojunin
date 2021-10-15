@@ -22,13 +22,18 @@
   <h2>⚒ Fullstack FrameWork</h2>
 <div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=Expo&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=Expo&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=black"/>
   <img src="https://img.shields.io/badge/Strapi-2F2E8B?style=flat-square&logo=Strapi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Apollo Graphql-311C87?style=flat-square&logo=Apollo Graphql&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraqphQL&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Apollo Graphql-311C87?style=flat-square&logo=Apollo Graphql&logoColor=black"/>
 </div>
+  <div>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=black"/>
+    <img src="https://img.shields.io/badge/#MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=black"/>
+  </div>
+  
 <h3>Co-working</h3>
 <div>
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
