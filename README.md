@@ -40,6 +40,5 @@
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=black"/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=black"/>
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=black"/>
-  
   </div>
 </div>
