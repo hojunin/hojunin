@@ -1,7 +1,6 @@
 
-- 👋 반갑습니다! 이것저것 공부하고 해보는 경험을 즐기는 개발자 인호준입니다 
-- 👀 React | React Native | Graphql | Strapi | Node ... 등 다양한 기술스택으로 개발합니다. 
-- 🌱 요즘 관심있는 분야는 블록체인입니다. 새롭게 Go언어를 공부중입니다. 
+- 👋 반갑습니다! 
+- 👀 React | React | React Native | Node | Graphql |  ... 등 다양한 기술스택으로 개발합니다. 
 - 📫 감사합니다 :)
 
 <div align="center">
