@@ -12,18 +12,19 @@
 <h1>💻개발 스택</h1>
 
 
-  <h2>🅰️ Programming Language<h2>
+  <h2>🅰️ Language<h2>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=black"/>
 
 
-  <h2>⚒ Fullstack FrameWork</h2>
+  <h2>⚒ FrameWork</h2>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React Native&logoColor=black"/>
   <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white">
   <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=Expo&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black"/>
+    <br/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Strapi-2F2E8B?style=flat-square&logo=Strapi&logoColor=black"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraqphQL&logoColor=black"/>
